@@ -2,9 +2,8 @@
 
 Aplicativo criado para a empresa Via Legal situada em Mogi Mirim, que tem por finalidade facilitar a encomenda de Lanches, Hot Dog, Bebidas e outros para delivery ou retira.
 
-![](Prancheta – 1.png)
-
-![](Prancheta – 2.png)
+![](p1.png)
+![](p2.png)
 
 ## Ferramentas Utilizadas neste projeto até o momento:
 
