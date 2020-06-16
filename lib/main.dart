@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:foodbyte/screens/home_page/home_page.dart';
 import 'screens/cart_page/cart_page.dart';
 
 void main() {
@@ -18,7 +19,7 @@ class FoodbyteApp extends StatelessWidget {
           border: OutlineInputBorder(),
         ),
       ),
-      home: CartPage(),
+      home: HomePage(),
     );
   }
 }
